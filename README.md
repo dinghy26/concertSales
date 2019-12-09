@@ -7,4 +7,4 @@ After this user input, it will prompt the user to enter the group and how many s
 
 # Example
 
-![program description](https://github.com/dinghy26/concertSales/gitpic.png)
+![program description](gitpic.png)
