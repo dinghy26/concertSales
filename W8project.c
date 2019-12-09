@@ -8,7 +8,7 @@
 
 #define MAXN 100 // max characters in a group/concert name
 #define MAXG  50 // max concerts/groups
-#define MAXC   4 // max categories- change max to 4 Brian
+#define MAXC   4 // max categories- change max to 4 Brian Miranda
 
 char  group  [MAXG][MAXN];
 int   fans   [MAXG][MAXC];
